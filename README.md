@@ -2,7 +2,7 @@
 Un simulatore interattivo per visualizzare il funzionamento dell'algoritmo HeapSort.
 
 Link al simulatore:
-aura
+https://bilbooo.github.io/Heapsort-simulation/
 
 ## 🛠️ Comandi
 - **Spazio / Next**: Avanza di un passo
